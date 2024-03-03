@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://getbootstrap.com/">
-    <img src="assets/" alt="Bootstrap logo">
+    <img src="assets/Bootstrap%205%20what's%20new.jpg" alt="Bootstrap logo">
   </a>
 
 🌿🌏 I'm thrilled to share my latest venture, a comprehensive Bootstrap web development project that spans 50 distinct websites, each tailored to a specific purpose. This ambitious endeavor showcases not only my proficiency in front-end development but also my dedication to delivering high-quality, purpose-driven digital solutions.
