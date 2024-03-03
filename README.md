@@ -12,7 +12,7 @@ The cornerstone of this project lies in the adept use of Bootstrap, a powerful a
 
 The technological stack employed in this project includes Bootstrap as the primary front-end framework, complemented by HTML5, CSS3, and JavaScript. This combination allowed for the creation of visually appealing, responsive, and interactive websites that align with modern web development standards.
 
-I using this attached websites to complete my project.
+Below I using this attached websites links to see my projects.
 
 1) <a href="https://main--tranquil-speculoos-9477ac.netlify.app/">Grilli Restaurent</a>
 2) <a href="https://main--dancing-kitten-f33b4e.netlify.app/">VegasFood</a>
